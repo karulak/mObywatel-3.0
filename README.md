@@ -1,1 +1,2 @@
-# mObywatel-3.0
+# mObywatel3.0
+Siema, mam dla was wersje 3.0 mobywatela z integracja discord i baza danych (gotowe pod resell). Wystarczy wpisac odpowiednie wartosci w indexie.js, aut-check.js, .env, check-user.js, oauth.js, i w login.js. W razie pytan mozna podbijac do mnie na discordzie (mlody.ozzy). 
